@@ -10,6 +10,7 @@ OS: Mac OS
 Browser: Chrome
 
 Program Author: Carolyne Pelletier 
+
 carolyne.pelletier12@gmail.com
 > double click on a user's name to send a private message.
 > hold ctrl (command key on MAC) while double clicking on a user's name to block a user.
