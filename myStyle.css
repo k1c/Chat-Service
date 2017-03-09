@@ -1,0 +1,36 @@
+body {
+	color: black;
+	background-color: grey;
+}
+
+#header {
+	text-shadow: 3px 3px #000;
+	text-align: left;
+	font-size: 2em;
+	color: white;
+}
+
+#inputText, #chatLog{
+	border: solid 1px black;
+	width: 100%;
+}
+#chatLog{
+	height: 200px;
+}
+#contents{
+	width: 100%;
+	height: 200px;
+}
+#chatLogDiv{
+	float: left;
+	width: 90%;
+	height:100%;
+}
+#userListDiv{
+	color: white;
+	height:100%;
+	overflow: auto;
+}
+#userList{
+	list-style-type: none;
+}
