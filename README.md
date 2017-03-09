@@ -9,7 +9,7 @@ Node.js, Socket.io, CSS, HTML, CSS, JavaScript, jQuery AJAX.
 OS: Mac OS
 Browser: Chrome
 
-Program Author: Carolyne Pelletier
+Program Author: k1c
 > double click on a user's name to send a private message.
 > hold ctrl (command key on MAC) while double clicking on a user's name to block a user.
 Future messages blocked user will be prevented. 
