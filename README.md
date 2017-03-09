@@ -1,4 +1,5 @@
-# Chat Service (October 2016)
+# Chat Service 
+October 2016
 Chat with multiple users with ability to private message and block users.
 
 Node.js, Socket.io, CSS, HTML, CSS, JavaScript, jQuery AJAX.
